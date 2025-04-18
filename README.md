@@ -29,7 +29,7 @@ Specializing in Gesture Recognition, Self-Supervised Learning, and Human-Compute
 - ✋ [gesture-customization](https://github.com/tamu-edu/gesture-customization)  
   *Few-shot model for personalized hand gestures in Zoom.*
 
-- ⌚ [parc-activity-recognition](https://github.com/tamu-edu/parc-activity-recognition)  
+- ⌚ [parc-activity-recognition](https://github.com/tamu-edu/csce-srl-adl-ssl)  
   *Self-supervised activity recognition with dual smartwatches.*
 
 ---
