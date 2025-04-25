@@ -26,7 +26,7 @@ Specializing in Gesture Recognition, Self-Supervised Learning, and Human-Compute
 
 ### 📂 Featured Projects
 
-- ✋ [gesture-customization](https://github.com/tamu-edu/gesture-customization)  
+- ✋ [gesture-customization](https://github.com/jungin/Gesture_Customization)  
   *Few-shot model for personalized hand gestures in Zoom.*
 
 - ⌚ [parc-activity-recognition](https://github.com/tamu-edu/csce-srl-adl-ssl)  
